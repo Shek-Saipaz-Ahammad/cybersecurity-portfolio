@@ -43,3 +43,9 @@ This gave me access to the system through Telnet login.
 ## Note
 
 This practice was done in a controlled lab environment for learning purposes only.
+## Screenshots
+
+[Hydra Output](Screenshot2-hydra-output.png)
+
+  
+
