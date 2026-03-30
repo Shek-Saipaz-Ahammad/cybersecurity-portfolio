@@ -55,4 +55,4 @@ This helped me understand how attackers automate login attempts.
 
 This practice was done in a controlled lab environment for learning purposes only.
 
-![Hydra Output](screenshots/hydra-output.png)
+![Hydra Output](Screenshot-hydra-output.png).
