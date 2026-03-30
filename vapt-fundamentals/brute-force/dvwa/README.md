@@ -51,8 +51,10 @@ This helped me understand how attackers automate login attempts.
 - Add account lockout mechanism  
 - Use CAPTCHA or MFA  
 
+
+## Screenshot
+hydra brute force attack[Proof of Work] [Hydra Output Screenshot](Screenshot-hydra-output.png)
+
 ## Note
 
 This practice was done in a controlled lab environment for learning purposes only.
-
-[Hydra Output Screenshot](Screenshot-hydra-output.png)
