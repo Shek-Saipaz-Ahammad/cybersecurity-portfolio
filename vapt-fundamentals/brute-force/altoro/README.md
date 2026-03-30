@@ -41,10 +41,7 @@ This helped me understand how attackers manually analyze authentication systems.
 - Lock account after multiple failed attempts  
 - Monitor suspicious login activity  
 
-## Screenshots
 
-- Burp request captured during login (proof of work): [View Screenshot](screenshots/burp-capture.png)  
-- Intruder attack result showing valid response (evidence): [View Screenshot](screenshots/intruder-result.png)
 
 ## Note
 
