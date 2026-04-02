@@ -36,4 +36,7 @@ My goal is to build strong practical knowledge in cybersecurity by identifying, 
 
 - Self-learning with hands-on practice  
 - Daily exploration of vulnerabilities and tools  
-- Focus on both attack techniques and prevention methods  
+- Focus on both attack techniques and prevention methods
+
+## Goal
+To build a strong foundation in cybersecurity and prepare for real-world security roles.
