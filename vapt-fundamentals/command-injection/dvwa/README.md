@@ -77,11 +77,7 @@ This showed that I can access system files through the shell.
 - Attacker can explore system files after access  
 
 ---
+## 📸 Proof of Work
 
-## 📸 Screenshots
+![Command Injection and Reverse Shell](Screenshot-cmd-injection.png)
 
-_Add your screenshots here_
-
-```bash
-screenshots/cmd.png
-screenshots/shell.png
