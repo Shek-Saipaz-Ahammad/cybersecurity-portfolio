@@ -35,11 +35,6 @@ This confirmed that the input was vulnerable to command injection.
 
 ## 📸 Proof of Work
 
-Command injection output:
+- Command injection output: [View Screenshot](screenshot-portswigger.png)   
 
-[View Screenshot](your-link-here)
 
----
-
-## ⚠️ Note
-This lab was performed in a safe environment for learning purposes only.
