@@ -79,5 +79,5 @@ This showed that I can access system files through the shell.
 ---
 ## 📸 Proof of Work
 
-- Command Injection and Reverse Shell screenshot:[View screenshot](Screenshot-cmd-injection.png)
+- Command Injection and Reverse Shell screenshot: [View screenshot](Screenshot-cmd-injection.png)
 
