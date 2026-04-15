@@ -106,4 +106,4 @@ When you log in to a website, the server creates a session and sends a session I
 
 ## 🎯 Summary
 
-Understanding these fundamentals is essential before performing VAPT, as they form the base for identifying, analyzing, and exploiting vulnerabilities in web applications.
+Understanding these fundamentals is essential before performing VAPT, as they form the base for identifying, analyzing and exploiting vulnerabilities in web applications.
