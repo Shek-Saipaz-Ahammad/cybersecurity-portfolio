@@ -67,6 +67,11 @@ To prevent CSRF attacks:
 
 ---
 
+## 📸 Proof of Work
+
+[View Screenshot](./csrf.png)
+
+
 ## ⚠️ Note
 
 This was performed only in a controlled environment for learning web security concepts.
