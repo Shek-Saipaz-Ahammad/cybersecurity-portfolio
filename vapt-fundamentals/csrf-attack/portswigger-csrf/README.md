@@ -42,7 +42,7 @@ It demonstrates a CSRF vulnerability where the application validates the CSRF to
 
 ## 📸 Screenshot
 
-[View Proof of Work](./csrf-poc.png)
+- Click here to see: [View Proof of Work](./portswigger-csrf.png)
 
 ---
 
