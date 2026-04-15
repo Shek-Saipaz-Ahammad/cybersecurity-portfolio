@@ -67,9 +67,9 @@ To prevent CSRF attacks:
 
 ---
 
-## 📸 Proof of Work
+## 📸 Screenshot
 
-[View Screenshot](./csrf.png)
+View proof of work: [View Screenshot](./csrf.png)
 
 
 ## ⚠️ Note
