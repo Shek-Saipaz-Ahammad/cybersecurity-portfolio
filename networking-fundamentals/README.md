@@ -1,16 +1,29 @@
-# Networking Fundamentals
+# 🌐 Networking Fundamentals (CCNA)
 
-## Overview
+## 🎯 Overview
 
-This section contains my networking learning journey based on CCNA concepts and hands-on labs.
+This section documents my CCNA learning journey.
 
-## Topics
+I use this space to track networking concepts, hands-on practice, Packet Tracer labs, and personal notes.
 
-1. OSI Model
-2. TCP/IP Model
-3. IP Addressing
-4. Subnetting
-5. VLANs
-6. Routing
-7. Switching
-8. Packet Tracer Labs etc...
+---
+
+## 📚 Topics Covered
+
+
+
+## 🛠️ Tools
+
+
+
+---
+
+## 🚀 Goal
+
+Build a strong networking foundation for Cyber Security and Cloud Security.
+
+---
+
+## 📌 Status
+
+🟢 In Progress
