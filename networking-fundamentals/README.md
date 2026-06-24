@@ -9,7 +9,10 @@ I use this space to track networking concepts, hands-on practice, Packet Tracer 
 ---
 
 ## 📚 Topics Covered
-- 01-network-fundamentals
+
+| Topic | Link |
+|---------|---------|
+| 01-Network Fundamentals | [Open](./network-fundamentals) |
 
 ----
 
