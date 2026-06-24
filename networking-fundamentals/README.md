@@ -9,11 +9,12 @@ I use this space to track networking concepts, hands-on practice, Packet Tracer 
 ---
 
 ## 📚 Topics Covered
+- 01-network-fundamentals
 
-
+----
 
 ## 🛠️ Tools
-
+- Command Prompt (CMD)
 
 
 ---
