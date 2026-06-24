@@ -12,7 +12,7 @@ I use this space to track networking concepts, hands-on practice, Packet Tracer 
 
 | Topic | Link |
 |---------|---------|
-[ 01-Network Fundamentals ](./network-fundamentals) 
+| 01-Network Fundamentals | [open](./network-fundamentals)| 
 
 ----
 
