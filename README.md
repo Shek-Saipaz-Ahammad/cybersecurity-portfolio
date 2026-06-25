@@ -12,7 +12,7 @@ This repository documents my cybersecurity learning, hands-on labs, and practica
 | Domain | Description | Link |
 |--------|------------|------|
 | VAPT | Web security, vulnerabilities, and hands-on labs | [Open](./vapt-fundamentals/) |
-| Networking | CCNA, routing, switching, and Packet Tracer labs | [Open](./networking-fundamentals/) |
+| Networking | CCNA, routing, switching, and Packet Tracer labs | [Open](https://github.com/Shek-Saipaz-Ahammad/networking-fundamentals) |
 
 ---
 
